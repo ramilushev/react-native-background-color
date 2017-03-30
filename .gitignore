@@ -1,0 +1,17 @@
+# OSX
+#
+.DS_Store
+
+# Android/IJ
+#
+.idea
+.gradle
+local.properties
+
+# node.js
+#
+node_modules/
+npm-debug.log
+
+android/app/libs
+android/keystores/debug.keystore
