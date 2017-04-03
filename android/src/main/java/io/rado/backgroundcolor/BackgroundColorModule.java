@@ -18,7 +18,7 @@ public class BackgroundColorModule extends ReactContextBaseJavaModule {
   private static final String DURATION_SHORT_KEY = "SHORT";
   private static final String DURATION_LONG_KEY = "LONG";
 
-  public BackgoundColorModule(ReactApplicationContext reactContext) {
+  public BackgroundColorModule(ReactApplicationContext reactContext) {
     super(reactContext);
   }
 
