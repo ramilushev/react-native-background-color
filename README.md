@@ -34,9 +34,7 @@ $ yarn add react-native-background-color
         ```
     * Add the following to `android/app/src/main/java/**/MainApplication.java`:
         ```java
-        package com.motivation;
-
-        import io.rado.backgroundcolor.BackgroundColor;  // add this for react-native-android-library-boilerplate
+        import io.rado.backgroundcolor.BackgroundColor;  // add this for react-native-background-color
 
         public class MainApplication extends Application implements ReactApplication {
 
