@@ -1,24 +1,24 @@
 {
-  "name": "react-native-background-color",
-  "version": "0.0.5",
-  "author": "Rado Milushev",
-  "private": false,
-  "license": "Unlicense",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ramilushev/react-native-background-color.git"
-  },
-  "homepage": "https://github.com/ramilushev/react-native-background-color",
-  "keywords": [
-    "react-native",
-    "background",
-    "color"
-  ],
-  "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
-  },
-  "peerDependencies": {
-    "react-native": ">=0.38.0"
-  }
+    "name": "@codebet/react-native-background-color",
+    "version": "0.0.5",
+    "author": "Rado Milushev",
+    "private": false,
+    "license": "Unlicense",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goa-codebet/react-native-background-color"
+    },
+    "homepage": "https://github.com/goa-codebet/react-native-background-color ",
+    "keywords": [
+        "react-native",
+        "background",
+        "color"
+    ],
+    "scripts": {
+        "start": "node node_modules/react-native/local-cli/cli.js start",
+        "test": "jest"
+    },
+    "peerDependencies": {
+        "react-native": ">=0.38.0"
+    }
 }
