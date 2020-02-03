@@ -2,5 +2,9 @@
     {
         "merged": "/Users/rmilushev/Desktop/React/react-native-background-color/android/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/rmilushev/Desktop/React/react-native-background-color/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/pipoblak/react-native-background-color/android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/pipoblak/react-native-background-color/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/xml/preferences.xml"
     }
 ]

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package io.cmichel.boilerplate;
+package io.rado.backgroundcolor;
 
 public final class R {
     public static final class anim {
@@ -2335,33 +2335,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background io.cmichel.boilerplate:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit io.cmichel.boilerplate:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked io.cmichel.boilerplate:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd io.cmichel.boilerplate:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft io.cmichel.boilerplate:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight io.cmichel.boilerplate:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart io.cmichel.boilerplate:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout io.cmichel.boilerplate:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions io.cmichel.boilerplate:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider io.cmichel.boilerplate:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation io.cmichel.boilerplate:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height io.cmichel.boilerplate:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll io.cmichel.boilerplate:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator io.cmichel.boilerplate:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout io.cmichel.boilerplate:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon io.cmichel.boilerplate:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle io.cmichel.boilerplate:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding io.cmichel.boilerplate:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo io.cmichel.boilerplate:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode io.cmichel.boilerplate:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme io.cmichel.boilerplate:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding io.cmichel.boilerplate:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle io.cmichel.boilerplate:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle io.cmichel.boilerplate:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle io.cmichel.boilerplate:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title io.cmichel.boilerplate:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle io.cmichel.boilerplate:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background io.rado.backgroundcolor:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit io.rado.backgroundcolor:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked io.rado.backgroundcolor:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd io.rado.backgroundcolor:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft io.rado.backgroundcolor:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight io.rado.backgroundcolor:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart io.rado.backgroundcolor:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout io.rado.backgroundcolor:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions io.rado.backgroundcolor:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider io.rado.backgroundcolor:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation io.rado.backgroundcolor:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height io.rado.backgroundcolor:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll io.rado.backgroundcolor:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator io.rado.backgroundcolor:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout io.rado.backgroundcolor:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon io.rado.backgroundcolor:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle io.rado.backgroundcolor:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding io.rado.backgroundcolor:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo io.rado.backgroundcolor:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode io.rado.backgroundcolor:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme io.rado.backgroundcolor:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding io.rado.backgroundcolor:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle io.rado.backgroundcolor:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle io.rado.backgroundcolor:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle io.rado.backgroundcolor:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title io.rado.backgroundcolor:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle io.rado.backgroundcolor:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2401,17 +2401,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010097
         };
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#background}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:background
+          @attr name io.rado.backgroundcolor:background
         */
         public static int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2419,11 +2419,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.cmichel.boilerplate:backgroundSplit
+          @attr name io.rado.backgroundcolor:backgroundSplit
         */
         public static int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2431,11 +2431,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.cmichel.boilerplate:backgroundStacked
+          @attr name io.rado.backgroundcolor:backgroundStacked
         */
         public static int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2447,11 +2447,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:contentInsetEnd
+          @attr name io.rado.backgroundcolor:contentInsetEnd
         */
         public static int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2463,11 +2463,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:contentInsetLeft
+          @attr name io.rado.backgroundcolor:contentInsetLeft
         */
         public static int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2479,11 +2479,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:contentInsetRight
+          @attr name io.rado.backgroundcolor:contentInsetRight
         */
         public static int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2495,21 +2495,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:contentInsetStart
+          @attr name io.rado.backgroundcolor:contentInsetStart
         */
         public static int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:customNavigationLayout
+          @attr name io.rado.backgroundcolor:customNavigationLayout
         */
         public static int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2527,21 +2527,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:displayOptions
+          @attr name io.rado.backgroundcolor:displayOptions
         */
         public static int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#divider}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:divider
+          @attr name io.rado.backgroundcolor:divider
         */
         public static int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#elevation}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2553,11 +2553,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:elevation
+          @attr name io.rado.backgroundcolor:elevation
         */
         public static int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#height}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2569,11 +2569,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:height
+          @attr name io.rado.backgroundcolor:height
         */
         public static int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2583,51 +2583,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:hideOnContentScroll
+          @attr name io.rado.backgroundcolor:hideOnContentScroll
         */
         public static int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:homeAsUpIndicator
+          @attr name io.rado.backgroundcolor:homeAsUpIndicator
         */
         public static int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:homeLayout
+          @attr name io.rado.backgroundcolor:homeLayout
         */
         public static int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#icon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:icon
+          @attr name io.rado.backgroundcolor:icon
         */
         public static int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:indeterminateProgressStyle
+          @attr name io.rado.backgroundcolor:indeterminateProgressStyle
         */
         public static int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2639,21 +2639,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:itemPadding
+          @attr name io.rado.backgroundcolor:itemPadding
         */
         public static int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#logo}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:logo
+          @attr name io.rado.backgroundcolor:logo
         */
         public static int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2667,21 +2667,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:navigationMode
+          @attr name io.rado.backgroundcolor:navigationMode
         */
         public static int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:popupTheme
+          @attr name io.rado.backgroundcolor:popupTheme
         */
         public static int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2693,21 +2693,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:progressBarPadding
+          @attr name io.rado.backgroundcolor:progressBarPadding
         */
         public static int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:progressBarStyle
+          @attr name io.rado.backgroundcolor:progressBarStyle
         */
         public static int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2717,21 +2717,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:subtitle
+          @attr name io.rado.backgroundcolor:subtitle
         */
         public static int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:subtitleTextStyle
+          @attr name io.rado.backgroundcolor:subtitleTextStyle
         */
         public static int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#title}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2741,17 +2741,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:title
+          @attr name io.rado.backgroundcolor:title
         */
         public static int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:titleTextStyle
+          @attr name io.rado.backgroundcolor:titleTextStyle
         */
         public static int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2803,12 +2803,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background io.cmichel.boilerplate:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit io.cmichel.boilerplate:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout io.cmichel.boilerplate:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height io.cmichel.boilerplate:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle io.cmichel.boilerplate:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle io.cmichel.boilerplate:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background io.rado.backgroundcolor:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit io.rado.backgroundcolor:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout io.rado.backgroundcolor:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height io.rado.backgroundcolor:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle io.rado.backgroundcolor:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle io.rado.backgroundcolor:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2822,17 +2822,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#background}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:background
+          @attr name io.rado.backgroundcolor:background
         */
         public static int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2840,21 +2840,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.cmichel.boilerplate:backgroundSplit
+          @attr name io.rado.backgroundcolor:backgroundSplit
         */
         public static int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:closeItemLayout
+          @attr name io.rado.backgroundcolor:closeItemLayout
         */
         public static int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#height}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2866,27 +2866,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:height
+          @attr name io.rado.backgroundcolor:height
         */
         public static int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:subtitleTextStyle
+          @attr name io.rado.backgroundcolor:subtitleTextStyle
         */
         public static int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:titleTextStyle
+          @attr name io.rado.backgroundcolor:titleTextStyle
         */
         public static int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2895,8 +2895,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable io.cmichel.boilerplate:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount io.cmichel.boilerplate:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable io.rado.backgroundcolor:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount io.rado.backgroundcolor:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2905,17 +2905,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:expandActivityOverflowButtonDrawable
+          @attr name io.rado.backgroundcolor:expandActivityOverflowButtonDrawable
         */
         public static int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2925,7 +2925,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:initialActivityCount
+          @attr name io.rado.backgroundcolor:initialActivityCount
         */
         public static int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -2935,11 +2935,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout io.cmichel.boilerplate:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout io.cmichel.boilerplate:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout io.cmichel.boilerplate:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout io.cmichel.boilerplate:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout io.cmichel.boilerplate:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout io.rado.backgroundcolor:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout io.rado.backgroundcolor:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout io.rado.backgroundcolor:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout io.rado.backgroundcolor:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout io.rado.backgroundcolor:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -2959,53 +2959,53 @@ containing a value of this type.
         */
         public static int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:buttonPanelSideLayout
+          @attr name io.rado.backgroundcolor:buttonPanelSideLayout
         */
         public static int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:listItemLayout
+          @attr name io.rado.backgroundcolor:listItemLayout
         */
         public static int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:listLayout
+          @attr name io.rado.backgroundcolor:listLayout
         */
         public static int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:multiChoiceItemLayout
+          @attr name io.rado.backgroundcolor:multiChoiceItemLayout
         */
         public static int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:singleChoiceItemLayout
+          @attr name io.rado.backgroundcolor:singleChoiceItemLayout
         */
         public static int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3015,7 +3015,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps io.cmichel.boilerplate:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps io.rado.backgroundcolor:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3030,14 +3030,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name io.cmichel.boilerplate:textAllCaps
+          @attr name io.rado.backgroundcolor:textAllCaps
         */
         public static int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CompoundButton.
@@ -3047,8 +3047,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint io.cmichel.boilerplate:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode io.cmichel.boilerplate:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint io.rado.backgroundcolor:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode io.rado.backgroundcolor:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -3064,7 +3064,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3075,11 +3075,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:buttonTint
+          @attr name io.rado.backgroundcolor:buttonTint
         */
         public static int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3095,7 +3095,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:buttonTintMode
+          @attr name io.rado.backgroundcolor:buttonTintMode
         */
         public static int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3104,14 +3104,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength io.cmichel.boilerplate:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength io.cmichel.boilerplate:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength io.cmichel.boilerplate:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color io.cmichel.boilerplate:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize io.cmichel.boilerplate:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars io.cmichel.boilerplate:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars io.cmichel.boilerplate:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness io.cmichel.boilerplate:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength io.rado.backgroundcolor:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength io.rado.backgroundcolor:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength io.rado.backgroundcolor:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color io.rado.backgroundcolor:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize io.rado.backgroundcolor:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars io.rado.backgroundcolor:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars io.rado.backgroundcolor:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness io.rado.backgroundcolor:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -3127,7 +3127,7 @@ containing a value of this type.
             0x7f01002b, 0x7f01002c, 0x7f01002d, 0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3139,11 +3139,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:arrowHeadLength
+          @attr name io.rado.backgroundcolor:arrowHeadLength
         */
         public static int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3155,11 +3155,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:arrowShaftLength
+          @attr name io.rado.backgroundcolor:arrowShaftLength
         */
         public static int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#barLength}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3171,11 +3171,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:barLength
+          @attr name io.rado.backgroundcolor:barLength
         */
         public static int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#color}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3186,11 +3186,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:color
+          @attr name io.rado.backgroundcolor:color
         */
         public static int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3202,11 +3202,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:drawableSize
+          @attr name io.rado.backgroundcolor:drawableSize
         */
         public static int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3218,11 +3218,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:gapBetweenBars
+          @attr name io.rado.backgroundcolor:gapBetweenBars
         */
         public static int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3232,11 +3232,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:spinBars
+          @attr name io.rado.backgroundcolor:spinBars
         */
         public static int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#thickness}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3248,7 +3248,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:thickness
+          @attr name io.rado.backgroundcolor:thickness
         */
         public static int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a GenericDraweeView.
@@ -3257,30 +3257,30 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType io.cmichel.boilerplate:actualImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_backgroundImage io.cmichel.boilerplate:backgroundImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_fadeDuration io.cmichel.boilerplate:fadeDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImage io.cmichel.boilerplate:failureImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType io.cmichel.boilerplate:failureImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_overlayImage io.cmichel.boilerplate:overlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImage io.cmichel.boilerplate:placeholderImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType io.cmichel.boilerplate:placeholderImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage io.cmichel.boilerplate:pressedStateOverlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval io.cmichel.boilerplate:progressBarAutoRotateInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImage io.cmichel.boilerplate:progressBarImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType io.cmichel.boilerplate:progressBarImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImage io.cmichel.boilerplate:retryImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType io.cmichel.boilerplate:retryImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundAsCircle io.cmichel.boilerplate:roundAsCircle}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft io.cmichel.boilerplate:roundBottomLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomRight io.cmichel.boilerplate:roundBottomRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopLeft io.cmichel.boilerplate:roundTopLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopRight io.cmichel.boilerplate:roundTopRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor io.cmichel.boilerplate:roundWithOverlayColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius io.cmichel.boilerplate:roundedCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor io.cmichel.boilerplate:roundingBorderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth io.cmichel.boilerplate:roundingBorderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio io.cmichel.boilerplate:viewAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType io.rado.backgroundcolor:actualImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_backgroundImage io.rado.backgroundcolor:backgroundImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_fadeDuration io.rado.backgroundcolor:fadeDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_failureImage io.rado.backgroundcolor:failureImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType io.rado.backgroundcolor:failureImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_overlayImage io.rado.backgroundcolor:overlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_placeholderImage io.rado.backgroundcolor:placeholderImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType io.rado.backgroundcolor:placeholderImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage io.rado.backgroundcolor:pressedStateOverlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval io.rado.backgroundcolor:progressBarAutoRotateInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarImage io.rado.backgroundcolor:progressBarImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType io.rado.backgroundcolor:progressBarImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_retryImage io.rado.backgroundcolor:retryImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType io.rado.backgroundcolor:retryImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundAsCircle io.rado.backgroundcolor:roundAsCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft io.rado.backgroundcolor:roundBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundBottomRight io.rado.backgroundcolor:roundBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundTopLeft io.rado.backgroundcolor:roundTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundTopRight io.rado.backgroundcolor:roundTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor io.rado.backgroundcolor:roundWithOverlayColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius io.rado.backgroundcolor:roundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor io.rado.backgroundcolor:roundingBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth io.rado.backgroundcolor:roundingBorderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio io.rado.backgroundcolor:viewAspectRatio}</code></td><td></td></tr>
            </table>
            @see #GenericDraweeView_actualImageScaleType
            @see #GenericDraweeView_backgroundImage
@@ -3316,7 +3316,7 @@ containing a value of this type.
             0x7f010043, 0x7f010044, 0x7f010045, 0x7f010046
         };
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actualImageScaleType}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actualImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3336,21 +3336,21 @@ containing a value of this type.
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:actualImageScaleType
+          @attr name io.rado.backgroundcolor:actualImageScaleType
         */
         public static int GenericDraweeView_actualImageScaleType = 11;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#backgroundImage}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#backgroundImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:backgroundImage
+          @attr name io.rado.backgroundcolor:backgroundImage
         */
         public static int GenericDraweeView_backgroundImage = 12;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#fadeDuration}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#fadeDuration}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3360,21 +3360,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:fadeDuration
+          @attr name io.rado.backgroundcolor:fadeDuration
         */
         public static int GenericDraweeView_fadeDuration = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#failureImage}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#failureImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:failureImage
+          @attr name io.rado.backgroundcolor:failureImage
         */
         public static int GenericDraweeView_failureImage = 6;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#failureImageScaleType}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#failureImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3394,31 +3394,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:failureImageScaleType
+          @attr name io.rado.backgroundcolor:failureImageScaleType
         */
         public static int GenericDraweeView_failureImageScaleType = 7;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#overlayImage}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#overlayImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:overlayImage
+          @attr name io.rado.backgroundcolor:overlayImage
         */
         public static int GenericDraweeView_overlayImage = 13;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#placeholderImage}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#placeholderImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:placeholderImage
+          @attr name io.rado.backgroundcolor:placeholderImage
         */
         public static int GenericDraweeView_placeholderImage = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#placeholderImageScaleType}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#placeholderImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3438,21 +3438,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:placeholderImageScaleType
+          @attr name io.rado.backgroundcolor:placeholderImageScaleType
         */
         public static int GenericDraweeView_placeholderImageScaleType = 3;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#pressedStateOverlayImage}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#pressedStateOverlayImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:pressedStateOverlayImage
+          @attr name io.rado.backgroundcolor:pressedStateOverlayImage
         */
         public static int GenericDraweeView_pressedStateOverlayImage = 14;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#progressBarAutoRotateInterval}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#progressBarAutoRotateInterval}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3462,21 +3462,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:progressBarAutoRotateInterval
+          @attr name io.rado.backgroundcolor:progressBarAutoRotateInterval
         */
         public static int GenericDraweeView_progressBarAutoRotateInterval = 10;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#progressBarImage}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#progressBarImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:progressBarImage
+          @attr name io.rado.backgroundcolor:progressBarImage
         */
         public static int GenericDraweeView_progressBarImage = 8;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#progressBarImageScaleType}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#progressBarImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3496,21 +3496,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:progressBarImageScaleType
+          @attr name io.rado.backgroundcolor:progressBarImageScaleType
         */
         public static int GenericDraweeView_progressBarImageScaleType = 9;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#retryImage}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#retryImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:retryImage
+          @attr name io.rado.backgroundcolor:retryImage
         */
         public static int GenericDraweeView_retryImage = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#retryImageScaleType}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#retryImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3530,11 +3530,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:retryImageScaleType
+          @attr name io.rado.backgroundcolor:retryImageScaleType
         */
         public static int GenericDraweeView_retryImageScaleType = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundAsCircle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundAsCircle}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3544,11 +3544,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundAsCircle
+          @attr name io.rado.backgroundcolor:roundAsCircle
         */
         public static int GenericDraweeView_roundAsCircle = 15;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundBottomLeft}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundBottomLeft}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3558,11 +3558,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundBottomLeft
+          @attr name io.rado.backgroundcolor:roundBottomLeft
         */
         public static int GenericDraweeView_roundBottomLeft = 20;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundBottomRight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundBottomRight}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3572,11 +3572,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundBottomRight
+          @attr name io.rado.backgroundcolor:roundBottomRight
         */
         public static int GenericDraweeView_roundBottomRight = 19;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundTopLeft}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundTopLeft}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3586,11 +3586,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundTopLeft
+          @attr name io.rado.backgroundcolor:roundTopLeft
         */
         public static int GenericDraweeView_roundTopLeft = 17;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundTopRight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundTopRight}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3600,11 +3600,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundTopRight
+          @attr name io.rado.backgroundcolor:roundTopRight
         */
         public static int GenericDraweeView_roundTopRight = 18;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundWithOverlayColor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundWithOverlayColor}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3615,11 +3615,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundWithOverlayColor
+          @attr name io.rado.backgroundcolor:roundWithOverlayColor
         */
         public static int GenericDraweeView_roundWithOverlayColor = 21;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundedCornerRadius}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundedCornerRadius}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3631,11 +3631,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundedCornerRadius
+          @attr name io.rado.backgroundcolor:roundedCornerRadius
         */
         public static int GenericDraweeView_roundedCornerRadius = 16;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundingBorderColor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundingBorderColor}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3646,11 +3646,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundingBorderColor
+          @attr name io.rado.backgroundcolor:roundingBorderColor
         */
         public static int GenericDraweeView_roundingBorderColor = 23;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#roundingBorderWidth}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#roundingBorderWidth}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3662,11 +3662,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:roundingBorderWidth
+          @attr name io.rado.backgroundcolor:roundingBorderWidth
         */
         public static int GenericDraweeView_roundingBorderWidth = 22;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#viewAspectRatio}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#viewAspectRatio}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -3676,7 +3676,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:viewAspectRatio
+          @attr name io.rado.backgroundcolor:viewAspectRatio
         */
         public static int GenericDraweeView_viewAspectRatio = 1;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3690,10 +3690,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider io.cmichel.boilerplate:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding io.cmichel.boilerplate:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild io.cmichel.boilerplate:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers io.cmichel.boilerplate:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider io.rado.backgroundcolor:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding io.rado.backgroundcolor:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild io.rado.backgroundcolor:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers io.rado.backgroundcolor:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3741,17 +3741,17 @@ containing a value of this type.
         */
         public static int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#divider}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:divider
+          @attr name io.rado.backgroundcolor:divider
         */
         public static int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3763,11 +3763,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:dividerPadding
+          @attr name io.rado.backgroundcolor:dividerPadding
         */
         public static int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3777,11 +3777,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:measureWithLargestChild
+          @attr name io.rado.backgroundcolor:measureWithLargestChild
         */
         public static int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3796,7 +3796,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:showDividers
+          @attr name io.rado.backgroundcolor:showDividers
         */
         public static int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -3935,9 +3935,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout io.cmichel.boilerplate:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass io.cmichel.boilerplate:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass io.cmichel.boilerplate:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout io.rado.backgroundcolor:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass io.rado.backgroundcolor:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass io.rado.backgroundcolor:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -3951,7 +3951,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction io.cmichel.boilerplate:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction io.rado.backgroundcolor:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -3979,17 +3979,17 @@ containing a value of this type.
             0x7f01004d
         };
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionLayout
+          @attr name io.rado.backgroundcolor:actionLayout
         */
         public static int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3999,11 +3999,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:actionProviderClass
+          @attr name io.rado.backgroundcolor:actionProviderClass
         */
         public static int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4013,7 +4013,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:actionViewClass
+          @attr name io.rado.backgroundcolor:actionViewClass
         */
         public static int MenuItem_actionViewClass = 15;
         /**
@@ -4095,7 +4095,7 @@ containing a value of this type.
         */
         public static int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4111,7 +4111,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:showAsAction
+          @attr name io.rado.backgroundcolor:showAsAction
         */
         public static int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4127,7 +4127,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing io.cmichel.boilerplate:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing io.rado.backgroundcolor:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -4185,7 +4185,7 @@ containing a value of this type.
         */
         public static int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -4195,7 +4195,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:preserveIconSpacing
+          @attr name io.rado.backgroundcolor:preserveIconSpacing
         */
         public static int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -4205,7 +4205,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor io.cmichel.boilerplate:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor io.rado.backgroundcolor:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -4220,7 +4220,7 @@ containing a value of this type.
         */
         public static int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -4230,7 +4230,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:overlapAnchor
+          @attr name io.rado.backgroundcolor:overlapAnchor
         */
         public static int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -4239,7 +4239,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor io.cmichel.boilerplate:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor io.rado.backgroundcolor:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -4247,7 +4247,7 @@ containing a value of this type.
             0x7f010050
         };
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -4257,7 +4257,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:state_above_anchor
+          @attr name io.rado.backgroundcolor:state_above_anchor
         */
         public static int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -4267,10 +4267,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager io.cmichel.boilerplate:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout io.cmichel.boilerplate:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount io.cmichel.boilerplate:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd io.cmichel.boilerplate:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager io.rado.backgroundcolor:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout io.rado.backgroundcolor:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount io.rado.backgroundcolor:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd io.rado.backgroundcolor:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
@@ -4289,7 +4289,7 @@ containing a value of this type.
         */
         public static int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -4299,11 +4299,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:layoutManager
+          @attr name io.rado.backgroundcolor:layoutManager
         */
         public static int RecyclerView_layoutManager = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -4313,11 +4313,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:reverseLayout
+          @attr name io.rado.backgroundcolor:reverseLayout
         */
         public static int RecyclerView_reverseLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -4327,11 +4327,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:spanCount
+          @attr name io.rado.backgroundcolor:spanCount
         */
         public static int RecyclerView_spanCount = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -4341,7 +4341,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:stackFromEnd
+          @attr name io.rado.backgroundcolor:stackFromEnd
         */
         public static int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a SearchView.
@@ -4354,19 +4354,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon io.cmichel.boilerplate:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon io.cmichel.boilerplate:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint io.cmichel.boilerplate:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon io.cmichel.boilerplate:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault io.cmichel.boilerplate:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout io.cmichel.boilerplate:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground io.cmichel.boilerplate:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint io.cmichel.boilerplate:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon io.cmichel.boilerplate:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon io.cmichel.boilerplate:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground io.cmichel.boilerplate:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout io.cmichel.boilerplate:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon io.cmichel.boilerplate:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon io.rado.backgroundcolor:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon io.rado.backgroundcolor:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint io.rado.backgroundcolor:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon io.rado.backgroundcolor:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault io.rado.backgroundcolor:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout io.rado.backgroundcolor:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground io.rado.backgroundcolor:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint io.rado.backgroundcolor:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon io.rado.backgroundcolor:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon io.rado.backgroundcolor:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground io.rado.backgroundcolor:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout io.rado.backgroundcolor:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon io.rado.backgroundcolor:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -4418,27 +4418,27 @@ containing a value of this type.
         */
         public static int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:closeIcon
+          @attr name io.rado.backgroundcolor:closeIcon
         */
         public static int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:commitIcon
+          @attr name io.rado.backgroundcolor:commitIcon
         */
         public static int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4448,21 +4448,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:defaultQueryHint
+          @attr name io.rado.backgroundcolor:defaultQueryHint
         */
         public static int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:goIcon
+          @attr name io.rado.backgroundcolor:goIcon
         */
         public static int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4472,31 +4472,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:iconifiedByDefault
+          @attr name io.rado.backgroundcolor:iconifiedByDefault
         */
         public static int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#layout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:layout
+          @attr name io.rado.backgroundcolor:layout
         */
         public static int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:queryBackground
+          @attr name io.rado.backgroundcolor:queryBackground
         */
         public static int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4506,57 +4506,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:queryHint
+          @attr name io.rado.backgroundcolor:queryHint
         */
         public static int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:searchHintIcon
+          @attr name io.rado.backgroundcolor:searchHintIcon
         */
         public static int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:searchIcon
+          @attr name io.rado.backgroundcolor:searchIcon
         */
         public static int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:submitBackground
+          @attr name io.rado.backgroundcolor:submitBackground
         */
         public static int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:suggestionRowLayout
+          @attr name io.rado.backgroundcolor:suggestionRowLayout
         */
         public static int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:voiceIcon
+          @attr name io.rado.backgroundcolor:voiceIcon
         */
         public static int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -4568,7 +4568,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme io.cmichel.boilerplate:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme io.rado.backgroundcolor:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -4597,13 +4597,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:popupTheme
+          @attr name io.rado.backgroundcolor:popupTheme
         */
         public static int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -4615,13 +4615,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText io.cmichel.boilerplate:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack io.cmichel.boilerplate:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth io.cmichel.boilerplate:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding io.cmichel.boilerplate:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance io.cmichel.boilerplate:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding io.cmichel.boilerplate:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track io.cmichel.boilerplate:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText io.rado.backgroundcolor:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack io.rado.backgroundcolor:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth io.rado.backgroundcolor:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding io.rado.backgroundcolor:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance io.rado.backgroundcolor:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding io.rado.backgroundcolor:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track io.rado.backgroundcolor:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -4658,7 +4658,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#showText}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4668,11 +4668,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:showText
+          @attr name io.rado.backgroundcolor:showText
         */
         public static int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4682,11 +4682,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:splitTrack
+          @attr name io.rado.backgroundcolor:splitTrack
         */
         public static int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4698,11 +4698,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:switchMinWidth
+          @attr name io.rado.backgroundcolor:switchMinWidth
         */
         public static int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4714,21 +4714,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:switchPadding
+          @attr name io.rado.backgroundcolor:switchPadding
         */
         public static int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:switchTextAppearance
+          @attr name io.rado.backgroundcolor:switchTextAppearance
         */
         public static int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4740,17 +4740,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:thumbTextPadding
+          @attr name io.rado.backgroundcolor:thumbTextPadding
         */
         public static int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#track}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:track
+          @attr name io.rado.backgroundcolor:track
         */
         public static int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -4763,7 +4763,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps io.cmichel.boilerplate:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps io.rado.backgroundcolor:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -4800,14 +4800,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name io.cmichel.boilerplate:textAllCaps
+          @attr name io.rado.backgroundcolor:textAllCaps
         */
         public static int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a Theme.
@@ -4816,114 +4816,114 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider io.cmichel.boilerplate:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground io.cmichel.boilerplate:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme io.cmichel.boilerplate:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize io.cmichel.boilerplate:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle io.cmichel.boilerplate:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle io.cmichel.boilerplate:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle io.cmichel.boilerplate:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle io.cmichel.boilerplate:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle io.cmichel.boilerplate:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme io.cmichel.boilerplate:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme io.cmichel.boilerplate:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle io.cmichel.boilerplate:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle io.cmichel.boilerplate:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance io.cmichel.boilerplate:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor io.cmichel.boilerplate:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground io.cmichel.boilerplate:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle io.cmichel.boilerplate:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable io.cmichel.boilerplate:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable io.cmichel.boilerplate:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable io.cmichel.boilerplate:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable io.cmichel.boilerplate:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable io.cmichel.boilerplate:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle io.cmichel.boilerplate:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable io.cmichel.boilerplate:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable io.cmichel.boilerplate:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground io.cmichel.boilerplate:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle io.cmichel.boilerplate:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable io.cmichel.boilerplate:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle io.cmichel.boilerplate:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle io.cmichel.boilerplate:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle io.cmichel.boilerplate:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle io.cmichel.boilerplate:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons io.cmichel.boilerplate:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle io.cmichel.boilerplate:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme io.cmichel.boilerplate:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider io.rado.backgroundcolor:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground io.rado.backgroundcolor:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme io.rado.backgroundcolor:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize io.rado.backgroundcolor:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle io.rado.backgroundcolor:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle io.rado.backgroundcolor:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle io.rado.backgroundcolor:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle io.rado.backgroundcolor:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle io.rado.backgroundcolor:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme io.rado.backgroundcolor:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme io.rado.backgroundcolor:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle io.rado.backgroundcolor:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle io.rado.backgroundcolor:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance io.rado.backgroundcolor:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor io.rado.backgroundcolor:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground io.rado.backgroundcolor:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle io.rado.backgroundcolor:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable io.rado.backgroundcolor:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable io.rado.backgroundcolor:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable io.rado.backgroundcolor:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable io.rado.backgroundcolor:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable io.rado.backgroundcolor:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle io.rado.backgroundcolor:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable io.rado.backgroundcolor:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable io.rado.backgroundcolor:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground io.rado.backgroundcolor:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle io.rado.backgroundcolor:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable io.rado.backgroundcolor:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle io.rado.backgroundcolor:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle io.rado.backgroundcolor:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle io.rado.backgroundcolor:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle io.rado.backgroundcolor:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons io.rado.backgroundcolor:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle io.rado.backgroundcolor:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme io.rado.backgroundcolor:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle io.cmichel.boilerplate:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle io.cmichel.boilerplate:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle io.cmichel.boilerplate:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle io.cmichel.boilerplate:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle io.cmichel.boilerplate:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle io.cmichel.boilerplate:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle io.cmichel.boilerplate:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle io.cmichel.boilerplate:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall io.cmichel.boilerplate:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle io.cmichel.boilerplate:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle io.cmichel.boilerplate:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent io.cmichel.boilerplate:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal io.cmichel.boilerplate:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated io.cmichel.boilerplate:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight io.cmichel.boilerplate:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal io.cmichel.boilerplate:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary io.cmichel.boilerplate:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark io.cmichel.boilerplate:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal io.cmichel.boilerplate:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground io.cmichel.boilerplate:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding io.cmichel.boilerplate:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme io.cmichel.boilerplate:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal io.cmichel.boilerplate:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical io.cmichel.boilerplate:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle io.cmichel.boilerplate:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight io.cmichel.boilerplate:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground io.cmichel.boilerplate:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor io.cmichel.boilerplate:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle io.cmichel.boilerplate:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator io.cmichel.boilerplate:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator io.cmichel.boilerplate:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog io.cmichel.boilerplate:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle io.cmichel.boilerplate:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight io.cmichel.boilerplate:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge io.cmichel.boilerplate:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall io.cmichel.boilerplate:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft io.cmichel.boilerplate:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight io.cmichel.boilerplate:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground io.cmichel.boilerplate:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme io.cmichel.boilerplate:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth io.cmichel.boilerplate:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle io.cmichel.boilerplate:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle io.cmichel.boilerplate:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle io.cmichel.boilerplate:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle io.cmichel.boilerplate:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle io.cmichel.boilerplate:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground io.cmichel.boilerplate:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless io.cmichel.boilerplate:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle io.cmichel.boilerplate:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle io.cmichel.boilerplate:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle io.cmichel.boilerplate:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu io.cmichel.boilerplate:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem io.cmichel.boilerplate:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall io.cmichel.boilerplate:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle io.cmichel.boilerplate:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle io.cmichel.boilerplate:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu io.cmichel.boilerplate:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem io.cmichel.boilerplate:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl io.cmichel.boilerplate:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle io.cmichel.boilerplate:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle io.cmichel.boilerplate:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar io.cmichel.boilerplate:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay io.cmichel.boilerplate:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay io.cmichel.boilerplate:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor io.cmichel.boilerplate:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor io.cmichel.boilerplate:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor io.cmichel.boilerplate:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor io.cmichel.boilerplate:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor io.cmichel.boilerplate:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor io.cmichel.boilerplate:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle io.cmichel.boilerplate:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle io.rado.backgroundcolor:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle io.rado.backgroundcolor:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle io.rado.backgroundcolor:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle io.rado.backgroundcolor:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle io.rado.backgroundcolor:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle io.rado.backgroundcolor:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle io.rado.backgroundcolor:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle io.rado.backgroundcolor:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall io.rado.backgroundcolor:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle io.rado.backgroundcolor:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle io.rado.backgroundcolor:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent io.rado.backgroundcolor:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal io.rado.backgroundcolor:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated io.rado.backgroundcolor:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight io.rado.backgroundcolor:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal io.rado.backgroundcolor:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary io.rado.backgroundcolor:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark io.rado.backgroundcolor:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal io.rado.backgroundcolor:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground io.rado.backgroundcolor:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding io.rado.backgroundcolor:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme io.rado.backgroundcolor:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal io.rado.backgroundcolor:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical io.rado.backgroundcolor:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle io.rado.backgroundcolor:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight io.rado.backgroundcolor:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground io.rado.backgroundcolor:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor io.rado.backgroundcolor:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle io.rado.backgroundcolor:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator io.rado.backgroundcolor:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator io.rado.backgroundcolor:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog io.rado.backgroundcolor:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle io.rado.backgroundcolor:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight io.rado.backgroundcolor:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge io.rado.backgroundcolor:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall io.rado.backgroundcolor:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft io.rado.backgroundcolor:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight io.rado.backgroundcolor:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground io.rado.backgroundcolor:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme io.rado.backgroundcolor:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth io.rado.backgroundcolor:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle io.rado.backgroundcolor:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle io.rado.backgroundcolor:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle io.rado.backgroundcolor:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle io.rado.backgroundcolor:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle io.rado.backgroundcolor:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground io.rado.backgroundcolor:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless io.rado.backgroundcolor:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle io.rado.backgroundcolor:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle io.rado.backgroundcolor:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle io.rado.backgroundcolor:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu io.rado.backgroundcolor:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem io.rado.backgroundcolor:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall io.rado.backgroundcolor:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle io.rado.backgroundcolor:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle io.rado.backgroundcolor:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu io.rado.backgroundcolor:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem io.rado.backgroundcolor:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl io.rado.backgroundcolor:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle io.rado.backgroundcolor:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle io.rado.backgroundcolor:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar io.rado.backgroundcolor:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay io.rado.backgroundcolor:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay io.rado.backgroundcolor:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor io.rado.backgroundcolor:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor io.rado.backgroundcolor:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor io.rado.backgroundcolor:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor io.rado.backgroundcolor:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor io.rado.backgroundcolor:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor io.rado.backgroundcolor:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle io.rado.backgroundcolor:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -5064,37 +5064,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100cf, 0x7f0100d0, 0x7f0100d1, 0x7f0100d2
         };
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarDivider
+          @attr name io.rado.backgroundcolor:actionBarDivider
         */
         public static int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarItemBackground
+          @attr name io.rado.backgroundcolor:actionBarItemBackground
         */
         public static int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarPopupTheme
+          @attr name io.rado.backgroundcolor:actionBarPopupTheme
         */
         public static int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5114,111 +5114,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:actionBarSize
+          @attr name io.rado.backgroundcolor:actionBarSize
         */
         public static int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarSplitStyle
+          @attr name io.rado.backgroundcolor:actionBarSplitStyle
         */
         public static int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarStyle
+          @attr name io.rado.backgroundcolor:actionBarStyle
         */
         public static int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarTabBarStyle
+          @attr name io.rado.backgroundcolor:actionBarTabBarStyle
         */
         public static int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarTabStyle
+          @attr name io.rado.backgroundcolor:actionBarTabStyle
         */
         public static int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarTabTextStyle
+          @attr name io.rado.backgroundcolor:actionBarTabTextStyle
         */
         public static int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarTheme
+          @attr name io.rado.backgroundcolor:actionBarTheme
         */
         public static int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionBarWidgetTheme
+          @attr name io.rado.backgroundcolor:actionBarWidgetTheme
         */
         public static int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionButtonStyle
+          @attr name io.rado.backgroundcolor:actionButtonStyle
         */
         public static int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionDropDownStyle
+          @attr name io.rado.backgroundcolor:actionDropDownStyle
         */
         public static int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionMenuTextAppearance
+          @attr name io.rado.backgroundcolor:actionMenuTextAppearance
         */
         public static int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5226,181 +5226,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.cmichel.boilerplate:actionMenuTextColor
+          @attr name io.rado.backgroundcolor:actionMenuTextColor
         */
         public static int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeBackground
+          @attr name io.rado.backgroundcolor:actionModeBackground
         */
         public static int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeCloseButtonStyle
+          @attr name io.rado.backgroundcolor:actionModeCloseButtonStyle
         */
         public static int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeCloseDrawable
+          @attr name io.rado.backgroundcolor:actionModeCloseDrawable
         */
         public static int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeCopyDrawable
+          @attr name io.rado.backgroundcolor:actionModeCopyDrawable
         */
         public static int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeCutDrawable
+          @attr name io.rado.backgroundcolor:actionModeCutDrawable
         */
         public static int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeFindDrawable
+          @attr name io.rado.backgroundcolor:actionModeFindDrawable
         */
         public static int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModePasteDrawable
+          @attr name io.rado.backgroundcolor:actionModePasteDrawable
         */
         public static int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModePopupWindowStyle
+          @attr name io.rado.backgroundcolor:actionModePopupWindowStyle
         */
         public static int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeSelectAllDrawable
+          @attr name io.rado.backgroundcolor:actionModeSelectAllDrawable
         */
         public static int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeShareDrawable
+          @attr name io.rado.backgroundcolor:actionModeShareDrawable
         */
         public static int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeSplitBackground
+          @attr name io.rado.backgroundcolor:actionModeSplitBackground
         */
         public static int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeStyle
+          @attr name io.rado.backgroundcolor:actionModeStyle
         */
         public static int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionModeWebSearchDrawable
+          @attr name io.rado.backgroundcolor:actionModeWebSearchDrawable
         */
         public static int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionOverflowButtonStyle
+          @attr name io.rado.backgroundcolor:actionOverflowButtonStyle
         */
         public static int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:actionOverflowMenuStyle
+          @attr name io.rado.backgroundcolor:actionOverflowMenuStyle
         */
         public static int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:activityChooserViewStyle
+          @attr name io.rado.backgroundcolor:activityChooserViewStyle
         */
         public static int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:alertDialogButtonGroupStyle
+          @attr name io.rado.backgroundcolor:alertDialogButtonGroupStyle
         */
         public static int Theme_alertDialogButtonGroupStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5410,27 +5410,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:alertDialogCenterButtons
+          @attr name io.rado.backgroundcolor:alertDialogCenterButtons
         */
         public static int Theme_alertDialogCenterButtons = 92;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:alertDialogStyle
+          @attr name io.rado.backgroundcolor:alertDialogStyle
         */
         public static int Theme_alertDialogStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:alertDialogTheme
+          @attr name io.rado.backgroundcolor:alertDialogTheme
         */
         public static int Theme_alertDialogTheme = 93;
         /**
@@ -5446,117 +5446,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:autoCompleteTextViewStyle
+          @attr name io.rado.backgroundcolor:autoCompleteTextViewStyle
         */
         public static int Theme_autoCompleteTextViewStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:borderlessButtonStyle
+          @attr name io.rado.backgroundcolor:borderlessButtonStyle
         */
         public static int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:buttonBarButtonStyle
+          @attr name io.rado.backgroundcolor:buttonBarButtonStyle
         */
         public static int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:buttonBarNegativeButtonStyle
+          @attr name io.rado.backgroundcolor:buttonBarNegativeButtonStyle
         */
         public static int Theme_buttonBarNegativeButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:buttonBarNeutralButtonStyle
+          @attr name io.rado.backgroundcolor:buttonBarNeutralButtonStyle
         */
         public static int Theme_buttonBarNeutralButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:buttonBarPositiveButtonStyle
+          @attr name io.rado.backgroundcolor:buttonBarPositiveButtonStyle
         */
         public static int Theme_buttonBarPositiveButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:buttonBarStyle
+          @attr name io.rado.backgroundcolor:buttonBarStyle
         */
         public static int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:buttonStyle
+          @attr name io.rado.backgroundcolor:buttonStyle
         */
         public static int Theme_buttonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:buttonStyleSmall
+          @attr name io.rado.backgroundcolor:buttonStyleSmall
         */
         public static int Theme_buttonStyleSmall = 100;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:checkboxStyle
+          @attr name io.rado.backgroundcolor:checkboxStyle
         */
         public static int Theme_checkboxStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:checkedTextViewStyle
+          @attr name io.rado.backgroundcolor:checkedTextViewStyle
         */
         public static int Theme_checkedTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5567,11 +5567,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:colorAccent
+          @attr name io.rado.backgroundcolor:colorAccent
         */
         public static int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5582,11 +5582,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:colorButtonNormal
+          @attr name io.rado.backgroundcolor:colorButtonNormal
         */
         public static int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5597,11 +5597,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:colorControlActivated
+          @attr name io.rado.backgroundcolor:colorControlActivated
         */
         public static int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5612,11 +5612,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:colorControlHighlight
+          @attr name io.rado.backgroundcolor:colorControlHighlight
         */
         public static int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5627,11 +5627,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:colorControlNormal
+          @attr name io.rado.backgroundcolor:colorControlNormal
         */
         public static int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5642,11 +5642,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:colorPrimary
+          @attr name io.rado.backgroundcolor:colorPrimary
         */
         public static int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5657,11 +5657,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:colorPrimaryDark
+          @attr name io.rado.backgroundcolor:colorPrimaryDark
         */
         public static int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5672,21 +5672,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:colorSwitchThumbNormal
+          @attr name io.rado.backgroundcolor:colorSwitchThumbNormal
         */
         public static int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:controlBackground
+          @attr name io.rado.backgroundcolor:controlBackground
         */
         public static int Theme_controlBackground = 89;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5698,51 +5698,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:dialogPreferredPadding
+          @attr name io.rado.backgroundcolor:dialogPreferredPadding
         */
         public static int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:dialogTheme
+          @attr name io.rado.backgroundcolor:dialogTheme
         */
         public static int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:dividerHorizontal
+          @attr name io.rado.backgroundcolor:dividerHorizontal
         */
         public static int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:dividerVertical
+          @attr name io.rado.backgroundcolor:dividerVertical
         */
         public static int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:dropDownListViewStyle
+          @attr name io.rado.backgroundcolor:dropDownListViewStyle
         */
         public static int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5754,21 +5754,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:dropdownListPreferredItemHeight
+          @attr name io.rado.backgroundcolor:dropdownListPreferredItemHeight
         */
         public static int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:editTextBackground
+          @attr name io.rado.backgroundcolor:editTextBackground
         */
         public static int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5776,61 +5776,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.cmichel.boilerplate:editTextColor
+          @attr name io.rado.backgroundcolor:editTextColor
         */
         public static int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:editTextStyle
+          @attr name io.rado.backgroundcolor:editTextStyle
         */
         public static int Theme_editTextStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:homeAsUpIndicator
+          @attr name io.rado.backgroundcolor:homeAsUpIndicator
         */
         public static int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:listChoiceBackgroundIndicator
+          @attr name io.rado.backgroundcolor:listChoiceBackgroundIndicator
         */
         public static int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:listDividerAlertDialog
+          @attr name io.rado.backgroundcolor:listDividerAlertDialog
         */
         public static int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:listPopupWindowStyle
+          @attr name io.rado.backgroundcolor:listPopupWindowStyle
         */
         public static int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5842,11 +5842,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:listPreferredItemHeight
+          @attr name io.rado.backgroundcolor:listPreferredItemHeight
         */
         public static int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5858,11 +5858,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:listPreferredItemHeightLarge
+          @attr name io.rado.backgroundcolor:listPreferredItemHeightLarge
         */
         public static int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5874,11 +5874,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:listPreferredItemHeightSmall
+          @attr name io.rado.backgroundcolor:listPreferredItemHeightSmall
         */
         public static int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5890,11 +5890,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:listPreferredItemPaddingLeft
+          @attr name io.rado.backgroundcolor:listPreferredItemPaddingLeft
         */
         public static int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5906,31 +5906,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:listPreferredItemPaddingRight
+          @attr name io.rado.backgroundcolor:listPreferredItemPaddingRight
         */
         public static int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:panelBackground
+          @attr name io.rado.backgroundcolor:panelBackground
         */
         public static int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:panelMenuListTheme
+          @attr name io.rado.backgroundcolor:panelMenuListTheme
         */
         public static int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5942,171 +5942,171 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:panelMenuListWidth
+          @attr name io.rado.backgroundcolor:panelMenuListWidth
         */
         public static int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:popupMenuStyle
+          @attr name io.rado.backgroundcolor:popupMenuStyle
         */
         public static int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:popupWindowStyle
+          @attr name io.rado.backgroundcolor:popupWindowStyle
         */
         public static int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:radioButtonStyle
+          @attr name io.rado.backgroundcolor:radioButtonStyle
         */
         public static int Theme_radioButtonStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:ratingBarStyle
+          @attr name io.rado.backgroundcolor:ratingBarStyle
         */
         public static int Theme_ratingBarStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:searchViewStyle
+          @attr name io.rado.backgroundcolor:searchViewStyle
         */
         public static int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:selectableItemBackground
+          @attr name io.rado.backgroundcolor:selectableItemBackground
         */
         public static int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:selectableItemBackgroundBorderless
+          @attr name io.rado.backgroundcolor:selectableItemBackgroundBorderless
         */
         public static int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:spinnerDropDownItemStyle
+          @attr name io.rado.backgroundcolor:spinnerDropDownItemStyle
         */
         public static int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:spinnerStyle
+          @attr name io.rado.backgroundcolor:spinnerStyle
         */
         public static int Theme_spinnerStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:switchStyle
+          @attr name io.rado.backgroundcolor:switchStyle
         */
         public static int Theme_switchStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:textAppearanceLargePopupMenu
+          @attr name io.rado.backgroundcolor:textAppearanceLargePopupMenu
         */
         public static int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:textAppearanceListItem
+          @attr name io.rado.backgroundcolor:textAppearanceListItem
         */
         public static int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:textAppearanceListItemSmall
+          @attr name io.rado.backgroundcolor:textAppearanceListItemSmall
         */
         public static int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:textAppearanceSearchResultSubtitle
+          @attr name io.rado.backgroundcolor:textAppearanceSearchResultSubtitle
         */
         public static int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:textAppearanceSearchResultTitle
+          @attr name io.rado.backgroundcolor:textAppearanceSearchResultTitle
         */
         public static int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:textAppearanceSmallPopupMenu
+          @attr name io.rado.backgroundcolor:textAppearanceSmallPopupMenu
         */
         public static int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6114,11 +6114,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.cmichel.boilerplate:textColorAlertDialogListItem
+          @attr name io.rado.backgroundcolor:textColorAlertDialogListItem
         */
         public static int Theme_textColorAlertDialogListItem = 94;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6126,31 +6126,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name io.cmichel.boilerplate:textColorSearchUrl
+          @attr name io.rado.backgroundcolor:textColorSearchUrl
         */
         public static int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:toolbarNavigationButtonStyle
+          @attr name io.rado.backgroundcolor:toolbarNavigationButtonStyle
         */
         public static int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:toolbarStyle
+          @attr name io.rado.backgroundcolor:toolbarStyle
         */
         public static int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6160,11 +6160,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowActionBar
+          @attr name io.rado.backgroundcolor:windowActionBar
         */
         public static int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6174,11 +6174,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowActionBarOverlay
+          @attr name io.rado.backgroundcolor:windowActionBarOverlay
         */
         public static int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6188,11 +6188,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowActionModeOverlay
+          @attr name io.rado.backgroundcolor:windowActionModeOverlay
         */
         public static int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6207,11 +6207,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowFixedHeightMajor
+          @attr name io.rado.backgroundcolor:windowFixedHeightMajor
         */
         public static int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6226,11 +6226,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowFixedHeightMinor
+          @attr name io.rado.backgroundcolor:windowFixedHeightMinor
         */
         public static int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6245,11 +6245,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowFixedWidthMajor
+          @attr name io.rado.backgroundcolor:windowFixedWidthMajor
         */
         public static int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6264,11 +6264,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowFixedWidthMinor
+          @attr name io.rado.backgroundcolor:windowFixedWidthMinor
         */
         public static int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6283,11 +6283,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowMinWidthMajor
+          @attr name io.rado.backgroundcolor:windowMinWidthMajor
         */
         public static int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6302,11 +6302,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowMinWidthMinor
+          @attr name io.rado.backgroundcolor:windowMinWidthMinor
         */
         public static int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6316,7 +6316,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:windowNoTitle
+          @attr name io.rado.backgroundcolor:windowNoTitle
         */
         public static int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -6327,29 +6327,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription io.cmichel.boilerplate:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon io.cmichel.boilerplate:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd io.cmichel.boilerplate:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft io.cmichel.boilerplate:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight io.cmichel.boilerplate:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart io.cmichel.boilerplate:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo io.cmichel.boilerplate:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription io.cmichel.boilerplate:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight io.cmichel.boilerplate:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription io.cmichel.boilerplate:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon io.cmichel.boilerplate:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme io.cmichel.boilerplate:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle io.cmichel.boilerplate:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance io.cmichel.boilerplate:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor io.cmichel.boilerplate:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title io.cmichel.boilerplate:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom io.cmichel.boilerplate:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd io.cmichel.boilerplate:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart io.cmichel.boilerplate:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop io.cmichel.boilerplate:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins io.cmichel.boilerplate:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance io.cmichel.boilerplate:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor io.cmichel.boilerplate:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription io.rado.backgroundcolor:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon io.rado.backgroundcolor:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd io.rado.backgroundcolor:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft io.rado.backgroundcolor:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight io.rado.backgroundcolor:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart io.rado.backgroundcolor:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo io.rado.backgroundcolor:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription io.rado.backgroundcolor:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight io.rado.backgroundcolor:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription io.rado.backgroundcolor:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon io.rado.backgroundcolor:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme io.rado.backgroundcolor:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle io.rado.backgroundcolor:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance io.rado.backgroundcolor:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor io.rado.backgroundcolor:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title io.rado.backgroundcolor:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom io.rado.backgroundcolor:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd io.rado.backgroundcolor:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart io.rado.backgroundcolor:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop io.rado.backgroundcolor:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins io.rado.backgroundcolor:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance io.rado.backgroundcolor:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor io.rado.backgroundcolor:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6399,7 +6399,7 @@ containing a value of this type.
         */
         public static int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6409,21 +6409,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:collapseContentDescription
+          @attr name io.rado.backgroundcolor:collapseContentDescription
         */
         public static int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:collapseIcon
+          @attr name io.rado.backgroundcolor:collapseIcon
         */
         public static int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6435,11 +6435,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:contentInsetEnd
+          @attr name io.rado.backgroundcolor:contentInsetEnd
         */
         public static int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6451,11 +6451,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:contentInsetLeft
+          @attr name io.rado.backgroundcolor:contentInsetLeft
         */
         public static int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6467,11 +6467,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:contentInsetRight
+          @attr name io.rado.backgroundcolor:contentInsetRight
         */
         public static int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6483,21 +6483,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:contentInsetStart
+          @attr name io.rado.backgroundcolor:contentInsetStart
         */
         public static int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#logo}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:logo
+          @attr name io.rado.backgroundcolor:logo
         */
         public static int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6507,11 +6507,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:logoDescription
+          @attr name io.rado.backgroundcolor:logoDescription
         */
         public static int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6523,11 +6523,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:maxButtonHeight
+          @attr name io.rado.backgroundcolor:maxButtonHeight
         */
         public static int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6537,31 +6537,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:navigationContentDescription
+          @attr name io.rado.backgroundcolor:navigationContentDescription
         */
         public static int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:navigationIcon
+          @attr name io.rado.backgroundcolor:navigationIcon
         */
         public static int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:popupTheme
+          @attr name io.rado.backgroundcolor:popupTheme
         */
         public static int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6571,21 +6571,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:subtitle
+          @attr name io.rado.backgroundcolor:subtitle
         */
         public static int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:subtitleTextAppearance
+          @attr name io.rado.backgroundcolor:subtitleTextAppearance
         */
         public static int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6596,11 +6596,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:subtitleTextColor
+          @attr name io.rado.backgroundcolor:subtitleTextColor
         */
         public static int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#title}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6610,11 +6610,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:title
+          @attr name io.rado.backgroundcolor:title
         */
         public static int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6626,11 +6626,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:titleMarginBottom
+          @attr name io.rado.backgroundcolor:titleMarginBottom
         */
         public static int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6642,11 +6642,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:titleMarginEnd
+          @attr name io.rado.backgroundcolor:titleMarginEnd
         */
         public static int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6658,11 +6658,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:titleMarginStart
+          @attr name io.rado.backgroundcolor:titleMarginStart
         */
         public static int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6674,11 +6674,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:titleMarginTop
+          @attr name io.rado.backgroundcolor:titleMarginTop
         */
         public static int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6690,21 +6690,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:titleMargins
+          @attr name io.rado.backgroundcolor:titleMargins
         */
         public static int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:titleTextAppearance
+          @attr name io.rado.backgroundcolor:titleTextAppearance
         */
         public static int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6715,7 +6715,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:titleTextColor
+          @attr name io.rado.backgroundcolor:titleTextColor
         */
         public static int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -6726,9 +6726,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd io.cmichel.boilerplate:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart io.cmichel.boilerplate:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme io.cmichel.boilerplate:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd io.rado.backgroundcolor:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart io.rado.backgroundcolor:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme io.rado.backgroundcolor:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6753,7 +6753,7 @@ containing a value of this type.
         */
         public static int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6765,11 +6765,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:paddingEnd
+          @attr name io.rado.backgroundcolor:paddingEnd
         */
         public static int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6781,17 +6781,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:paddingStart
+          @attr name io.rado.backgroundcolor:paddingStart
         */
         public static int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#theme}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name io.cmichel.boilerplate:theme
+          @attr name io.rado.backgroundcolor:theme
         */
         public static int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -6801,8 +6801,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint io.cmichel.boilerplate:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode io.cmichel.boilerplate:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint io.rado.backgroundcolor:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode io.rado.backgroundcolor:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -6818,7 +6818,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6829,11 +6829,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name io.cmichel.boilerplate:backgroundTint
+          @attr name io.rado.backgroundcolor:backgroundTint
         */
         public static int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link io.cmichel.boilerplate.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link io.rado.backgroundcolor.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6849,7 +6849,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name io.cmichel.boilerplate:backgroundTintMode
+          @attr name io.rado.backgroundcolor:backgroundTintMode
         */
         public static int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
