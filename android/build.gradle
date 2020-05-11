@@ -10,6 +10,10 @@ def computeVersionName() {
 buildscript {
     repositories {
         jcenter()
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
     }
 
     dependencies {
@@ -24,11 +28,12 @@ def safeExtGet(prop, fallback) {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion safeExtGet("compileSdkVersion", 28)
-    buildToolsVersion safeExtGet("buildToolsVersion","28.0.1")
+    compileSdkVersion 28
+    buildToolsVersion "28.0.2"
 
     defaultConfig {
-        minSdkVersion safeExtGet('minSdkVersion', 16)
+        minSdkVersion 16
+        targetSdkVersion 28
         versionCode 1
         targetSdkVersion safeExtGet('targetSdkVersion', 22)
         // get version name from package.json version
@@ -41,6 +46,10 @@ android {
 
 repositories {
     mavenCentral()
+    maven {
+        url 'https://maven.google.com/'
+        name 'Google'
+    }
 }
 
 dependencies {
